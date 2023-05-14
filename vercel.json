@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://api-music.imsyy.top/:match*"
+      "destination": "https://musicapi.seeseeme.top/:match*"
     }
   ]
 }
