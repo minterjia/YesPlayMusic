@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease.jayhrn.com/:match*"
+      "destination": "https://musicapi.yuanf.me/:match*"
     }
   ]
 }
