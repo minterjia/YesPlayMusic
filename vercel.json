@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://napi.h11y.cn/:match*"
+      "destination": "https://netease.jayhrn.com/:match*"
     }
   ]
 }
